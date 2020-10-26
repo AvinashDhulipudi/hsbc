@@ -17,6 +17,14 @@ public class Main {
 		p1.advanceX(130);
 		p1.show();
 
+		
+		Rectangle r1=new Rectangle();
+		Rectangle r2=new Rectangle(21, 13);
+		System.out.println(r1.getArea());
+		System.out.println(r1.getPeri());
+		
+		System.out.println(r2.getArea());
+		System.out.println(r2.getPeri());
 	}
 
 }
