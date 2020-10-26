@@ -1,0 +1,5 @@
+Project1 		Employee class
+Project2		Point class
+Project3		Handling String and StringBuilder
+Project4		Handling arrays
+Project5		Inheritance and overriding
