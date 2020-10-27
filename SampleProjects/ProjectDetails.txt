@@ -3,3 +3,5 @@ Project2		Point class
 Project3		Handling String and StringBuilder
 Project4		Handling arrays
 Project5		Inheritance and overriding
+Project6		Polymorphism and abstract class
+project7		interfaces
